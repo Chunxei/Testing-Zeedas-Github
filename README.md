@@ -1,10 +1,10 @@
 # Testing-Zeedas-Github
 
 
-##Foo
+## Foo
 
-###Bar
+### Bar
 
 ```js
-const foo = bar
+const foo = bar;
 ```
